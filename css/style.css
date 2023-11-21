@@ -8,6 +8,7 @@ main{
     font-family: 'Raleway', 'Times New Roman', Times, serif;
 }
 nav{
+    margin-top: 20px;
     padding-top: 30px;
     padding-bottom: 40px;
 }
@@ -62,6 +63,7 @@ h3{
     font-size: x-large;
     font-family: 'Courier New', Courier, monospace;
     color: rgb(76, 113, 116);
+    margin: 10px;
 }
 
 h4{
@@ -160,6 +162,7 @@ nav ul li a:hover, nav ul li a:focus{
 .mainbttn a:focus{
     position: absolute;
     top: 20px;
+
     background:#f1d74c;
     text-decoration : underline;
     border: solid black 2px;
@@ -587,6 +590,7 @@ padding: 5px;
         height: 100%;
     }
     .rowofpic img{
+        border: 5px solid rgb(76, 113, 116);
         cursor:pointer;
         margin: 10px;
         padding: 0px;
@@ -598,6 +602,7 @@ padding: 5px;
         height: 100%;
     }
     .rowofpicp img{
+        border: 5px solid rgb(76, 113, 116);
         cursor:pointer;
         margin: 10px;
         padding: 0px;
