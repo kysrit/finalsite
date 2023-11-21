@@ -28,7 +28,6 @@ nav{
 }
 .background{
     background-color: aliceblue;
-    width: flex;
     border: 5px solid black;
     margin-left: 20%;
     margin-right: 20%;
@@ -134,7 +133,6 @@ p{
     border-style: solid;
     padding: 10px;
     font-style: italic;
-    font-size: bold;
     text-decoration: underline;
 }       
 nav ul li a:hover, nav ul li a:focus{
